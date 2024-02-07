@@ -10,7 +10,8 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/animations": "^17.0.0",
+    "@angular/animations": "^17.1.1",
+    "@angular/cdk": "^17.1.1",
     "@angular/common": "^17.0.0",
     "@angular/compiler": "^17.0.0",
     "@angular/core": "^17.0.0",
@@ -19,6 +20,7 @@
     "@angular/platform-browser": "^17.0.0",
     "@angular/platform-browser-dynamic": "^17.0.0",
     "@angular/router": "^17.0.0",
+    "ag-grid-community": "^31.0.3",
     "rxjs": "~7.8.0",
     "shop-folder-component": "^0.0.244",
     "shop-folder-core": "^0.0.53",
@@ -37,6 +39,7 @@
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
+    "tailwindcss": "^3.4.1",
     "typescript": "~5.2.2"
   }
 }
